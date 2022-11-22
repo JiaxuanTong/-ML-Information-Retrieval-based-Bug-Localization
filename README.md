@@ -1,7 +1,7 @@
 # -ML-Information-Retrieval-based-Bug-Localization
 This is a project related to Machine Learning, more specific topic is Information Retrieval-based Bug Localization.
 
-ipynb file: The experiment python code and result
+ipynb file: The experiment python code and result, please open the file through Jupyter Notebook
 
 pdf file: The Information Retrieval-based Bug Localization Experiment and Research Report
 
